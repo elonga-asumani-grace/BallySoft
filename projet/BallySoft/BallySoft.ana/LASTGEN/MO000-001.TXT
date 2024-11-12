@@ -1,0 +1,15 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+Locataire		NFI		nouveau fichier
+Maison		NFI		nouveau fichier
+Utilisateur		NFI		nouveau fichier
+Chambre		NFI		nouveau fichier
+garantie		NFI		nouveau fichier
+paiement		NFI		nouveau fichier
+membreFamille		NFI		nouveau fichier
+Contrainte_Maison_paiement		NWL	Maison (nomMaison) et paiement (nomMaison)	Nouvelle liaison entre les fichiers Maison (nomMaison) et paiement (nomMaison)
+Contrainte_Chambre_paiement		NWL	Chambre (nomChambre) et paiement (nomChambre)	Nouvelle liaison entre les fichiers Chambre (nomChambre) et paiement (nomChambre)
+Contrainte_Maison_Chambre		NWL	Maison (nomMaison) et Chambre (nomMaison)	Nouvelle liaison entre les fichiers Maison (nomMaison) et Chambre (nomMaison)
+Contrainte_Locataire_paiement		NWL	Locataire (nomLocataire) et paiement (nomLocataire)	Nouvelle liaison entre les fichiers Locataire (nomLocataire) et paiement (nomLocataire)
+Contrainte_Locataire_membreFamille		NWL	Locataire (nomLocataire) et membreFamille (nomLocataire)	Nouvelle liaison entre les fichiers Locataire (nomLocataire) et membreFamille (nomLocataire)
+Contrainte_Maison_garantie		NWL	Maison (nomMaison) et garantie (nomMaison)	Nouvelle liaison entre les fichiers Maison (nomMaison) et garantie (nomMaison)
+Contrainte_Chambre_garantie		NWL	Chambre (nomChambre) et garantie (nomChambre)	Nouvelle liaison entre les fichiers Chambre (nomChambre) et garantie (nomChambre)

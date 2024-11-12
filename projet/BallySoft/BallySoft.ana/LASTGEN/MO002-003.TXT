@@ -1,0 +1,5 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+Chambre	nomMaison	CLE-*		la rubrique nomMaison n'est plus une clé
+Contrainte_Chambre_paiement		DEL	Chambre (nomChambre) et paiement (nomChambre)	Liaison supprimée entre les fichiers Chambre (nomChambre) et paiement (nomChambre)
+Contrainte_Maison_Chambre		DEL	Maison (nomMaison) et Chambre (nomMaison)	Liaison supprimée entre les fichiers Maison (nomMaison) et Chambre (nomMaison)
+Contrainte_Chambre_garantie		DEL	Chambre (nomChambre) et garantie (nomChambre)	Liaison supprimée entre les fichiers Chambre (nomChambre) et garantie (nomChambre)

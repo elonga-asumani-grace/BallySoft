@@ -1,0 +1,9 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+Locataire		TAR	813	nouvelle taille enregistrement : 813
+Locataire	genre	CNW	Chaîne$Entier non signé sur 1 octet	la rubrique genre a pour nouveau type Chaîne
+Locataire	profession	RUB+		profession est une nouvelle rubrique
+Locataire	dateDeNaisssance	RUB+		dateDeNaisssance est une nouvelle rubrique
+Locataire	numeroCarteIDnationale	RUB+		numeroCarteIDnationale est une nouvelle rubrique
+Locataire	genre	RRM		
+Locataire	etatCivil	RRM		
+Locataire	motifDemenagement	RRM		

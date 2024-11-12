@@ -1,0 +1,3 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+Chambre	nomMaison	CLEN*		la rubrique nomMaison est maintenant une clé
+Contrainte_Maison_Chambre		NWL	Maison (nomMaison) et Chambre (nomMaison)	Nouvelle liaison entre les fichiers Maison (nomMaison) et Chambre (nomMaison)

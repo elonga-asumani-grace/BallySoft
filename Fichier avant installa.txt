@@ -1,0 +1,4 @@
+-------------BONJOUR------------------
+Cette application vous a été fourni par la société BALLYSOFT
+c'est une application mono utilisateur(micro service)
+Elle permet de gerer les locataires

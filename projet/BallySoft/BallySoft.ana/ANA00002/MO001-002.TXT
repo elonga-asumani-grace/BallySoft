@@ -1,0 +1,8 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+paiementFacture		NFI		nouveau fichier
+facture		NFI		nouveau fichier
+Contrainte_facture_paiementFacture		NWL	facture (referenceFacture) et paiementFacture (referenceFacture)	Nouvelle liaison entre les fichiers facture (referenceFacture) et paiementFacture (referenceFacture)
+paiementFacture	nomMaison	RRN		
+paiementFacture	nomChambre	RRN		
+paiementFacture	nomLocataire	RRN		
+paiementFacture	referenceFacture	RRN		

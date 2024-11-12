@@ -1,0 +1,12 @@
+;PCSoft - Hyper File V7.00 - REP V7.00
+;Do not edit. Please use specific tools.
+ANALYSISGUID=B	;Analysis GUID
+LOCALIZATION_UTF8=622BFD08B1DC4C678F04A30D12BFEFA4	Chambre	D:\projet\projet\BallySoft\Exe\Chambre.fic
+LOCALIZATION_UTF8=2D16896DC56B48B7AFFE8E8CB3BBCD9F	Maison	D:\projet\projet\BallySoft\Exe\Maison.fic
+LOCALIZATION_UTF8=AFB5C5D06B174FC197818DC09BC101E6	Locataire	D:\projet\projet\BallySoft\Exe\Locataire.fic
+LOCALIZATION_UTF8=943D5BCACB8B4E5A87A216C1503E9FC1	membreFamille	D:\projet\projet\BallySoft\Exe\membreFamille.fic
+LOCALIZATION_UTF8=24456F7AA2B440C98FF2F5FE9A9DB69E	paiementFacture	D:\projet\projet\BallySoft\Exe\paiementFacture.fic
+LOCALIZATION_UTF8=F55EAF02CC1C43B1BC7E073C3505E5AC	facture	D:\projet\projet\BallySoft\Exe\facture.fic
+LOCALIZATION_UTF8=B414FAAB7432455BBC5B5124965D45B5	paiement	D:\projet\projet\BallySoft\Exe\paiement.fic
+LOCALIZATION_UTF8=B945E815077342DCAAD3199325F5C140	Utilisateur	D:\projet\projet\BallySoft\Exe\Utilisateur.fic
+LOCALIZATION_UTF8=19EAFCD02EEF4583A86375379C70F271	garantie	D:\projet\projet\BallySoft\Exe\garantie.fic
